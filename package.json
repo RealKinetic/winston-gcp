@@ -1,0 +1,24 @@
+{
+  "name": "@real-kinetic/winston-gcp",
+  "version": "1.0.0",
+  "description": "Stackdriver-compatible logging with Winston.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "winston",
+    "logging",
+    "gcp",
+    "stackdriver",
+    "express",
+    "middleware"
+  ],
+  "author": "Real Kinetic",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "winston": "^3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RealKinetic/winston-gcp.git"
+  }
+}
